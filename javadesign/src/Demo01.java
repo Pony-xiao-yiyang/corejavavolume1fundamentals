@@ -1,6 +1,6 @@
 /**
  * @description:java程序设计概述
- * @author:萧易扬
+ * @author:Adolf.Musk
  * @time: 2021/5/14 22:10
  */
 public class Demo01 {
