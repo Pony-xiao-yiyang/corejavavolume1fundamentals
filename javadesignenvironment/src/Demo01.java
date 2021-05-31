@@ -1,5 +1,5 @@
 /**
- * @description:Java设计环境-first demo
+ * @description:Java设计环境-First demo
  * @author:Adolf Musk
  * @time: 2021/5/14 23:16
  */
