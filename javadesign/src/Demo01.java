@@ -4,6 +4,11 @@
  * @time: 2021/5/14 22:10
  */
 public class Demo01 {
+
+    public static void main(String[] args) {
+
+    }
+
     /**
      * 1.1   java设计平台(即 java)
      *          java是一种功能齐全的语言，是一个高质量的执行环境，还提供了一个庞大的库

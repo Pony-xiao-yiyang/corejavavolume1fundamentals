@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javadesign/javadesign.iml" filepath="$PROJECT_DIR$/javadesign/javadesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javadesignenvironment/javadesignenvironment.iml" filepath="$PROJECT_DIR$/javadesignenvironment/javadesignenvironment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thebasicprogrammingstructureofjava/thebasicprogrammingstructureofjava.iml" filepath="$PROJECT_DIR$/thebasicprogrammingstructureofjava/thebasicprogrammingstructureofjava.iml" />
+    </modules>
+  </component>
+</project>
