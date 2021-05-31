@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 /**
- * @description:
+ * @description:java循环
  * @author:
  * @time: 2021/5/31 20:40
  */
